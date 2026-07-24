@@ -2,7 +2,7 @@
 
 <img src="./assets/porsche_logo.png" alt="Porsche 718 Cayman" width="360">
 
-# 🏎️ Porsche 718 Cayman Style Edition — Interactive Concept
+# Porsche 718 Cayman Style Edition — Interactive Concept
 
 **A high-performance, 409-frame cinematic scrollytelling web experience built for the iconic Porsche 718 Cayman Style Edition.**
 
